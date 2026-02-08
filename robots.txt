@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alicenahkarakol.github.io/sitemap.xml
